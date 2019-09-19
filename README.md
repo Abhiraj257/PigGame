@@ -1,1 +1,3 @@
 # PigGame
+
+Basic Javascript functions 
